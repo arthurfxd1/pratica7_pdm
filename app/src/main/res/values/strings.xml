@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">planejador de viagens</string>
+    <string name="digite_destino">digite o destino</string>
+    <string name="planejar_viagem">planejar viagem</string>
+    <string name="ver_no_mapa">ver no mapa</string>
+    <string name="pesquisar_voos">pesquisar voos</string>
+    <string name="ver_fotos">ver fotos</string>
+    <string name="partilhar_destino">partilhar destino</string>
+    <string name="estou_planejando">estou planejando uma viagem para</string>
+    <string name="action_settings">Settings</string>
+</resources>
